@@ -1,0 +1,22 @@
+h1 {
+    outline: 10px solid #008B8B;
+    padding: 10px;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    color: #008B8B;
+    font-family: Papyrus, Copperplate, Fantasy;
+    text-align: center;
+    font-size: 40px;
+}
+
+ul.list {
+    margin: 60px;
+    margin-left: 20px;
+}
+
+li a { 
+    color: black;
+    font-size:20px;
+    line-height: 1.5;
+}
